@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 
 class Greeter extends Component {
 
@@ -7,7 +7,7 @@ class Greeter extends Component {
   }
 
   render() {
-    return <h1>Welcome {this.props.name}</h1>
+    return <h1>Hello Cub {this.props.name} love Aunty Foxy xx</h1>
   }
 }
 
